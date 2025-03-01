@@ -11,6 +11,7 @@ public class TwoPointer {
     public static void main(String[] args) {
 
         boolean check = true;
+
         while(check){
 
             System.out.println(" Prefix sum");
